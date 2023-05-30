@@ -1,6 +1,8 @@
-## Kristof Rozgonyi
+## Hello there, I am Kristof
 
-Hello there, I am Kristof. Radio astronomer and developer.
+Radio astronomer and developer passionate about transforming raw data into meaningful insights.
+
+Feel free to contact me @ [kristof.rozgonyi.astro@gmail.com]
 
 <!--
 **rstofi/rstofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
