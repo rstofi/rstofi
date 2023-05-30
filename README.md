@@ -1,6 +1,6 @@
-# Hello there, I am Kristof!
+## Kristof Rozgonyi
 
-Hi, I am Kristof Rozgonyi -- radio astronomer and developer.
+Hello there, I am Kristof. Radio astronomer and developer.
 
 <!--
 **rstofi/rstofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
