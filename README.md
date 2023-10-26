@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Kristof Rozgonyi, and I am a radio astronomer and developer passionate about transforming raw data into meaningful insights.
+My name is Kristof Rozgonyi, and I am a data scientist, radio astronomer and developer. I like working with data, pipelines and complex problems.
 
 Feel free to contact me @ [kristof.rozgonyi.astro@gmail.com]
 
