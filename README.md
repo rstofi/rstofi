@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Kristof Rozgonyi, and I am a data engineer, radio astronomer and developer. I like working with data, pipelines and complex problems. I am fascinated by space related stuff and philosophy.
+My name is Kristof Rozgonyi, and I am a saatellite operator and a data engineer. I enjoy working with space systems, data pipelines and complex technical problems. I am cureous by nature, and I have experience with space systems, data processing, (radio) astronomy and philosophy. Lately this site is a personal space for me for creative and side projects.
 
 Feel free to contact me @ [kristof.rozgonyi.astro@gmail.com]
 
